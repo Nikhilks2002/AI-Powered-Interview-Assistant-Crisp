@@ -1,0 +1,12 @@
+*{box-sizing:border-box;font-family: Arial, sans-serif}
+.app{max-width:900px;margin:20px auto;padding:10px;border:1px solid #eee;border-radius:8px}
+header{display:flex;align-items:center;justify-content:space-between}
+.tabs button{margin-left:8px;padding:8px 12px;border-radius:6px;border:1px solid #ccc;background:white}
+.tabs button.active{background:#007bff;color:white;border-color:#007bff}
+main{margin-top:16px}
+.container{display:flex;gap:16px}
+.left{flex:1}
+.right{width:320px}
+.chat{border:1px solid #ddd;padding:12px;border-radius:6px;height:420px;overflow:auto;background:#fafafa}
+.controls{margin-top:8px;display:flex;gap:8px}
+.candidate-card{border:1px solid #ddd;padding:8px;border-radius:6px;margin-bottom:8px}
