@@ -34,7 +34,7 @@ AI Interview Assistant is a comprehensive React-based web application designed t
 - **Question Bank:** The app includes a rich set of technical questions categorized by difficulty levels — Easy, Medium, and Hard.
 - **Randomized Questions:** Each interview session presents a shuffled subset of questions to ensure uniqueness.
 - **Multiple Choice Options:** Questions come with multiple answer options, shuffled for fairness.
-- **Per-Question Timer:** Each question has a dedicated countdown timer (e.g., 20 seconds for Easy, 60 seconds for Medium, 120 seconds for Hard).
+- **Per-Question Timer:** Each question has a dedicated countdown timer - 30 sec (e.g., 20 seconds for Easy, 60 seconds for Medium, 120 seconds for Hard).
 - **Automatic Submission:** If the candidate does not answer within the allotted time, the current question is automatically submitted with no answer.
 - **Answer Grading:** Answers are graded instantly, with scores assigned (100 for correct, 0 for incorrect).
 - **Progress Tracking:** The app tracks the current question index, time left, and candidate responses in real-time.
