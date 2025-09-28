@@ -91,6 +91,4 @@ How it works:
 To run:
 1. npm install
 2. npm run dev
-# AI-Powered-Interview-Assistant-Crisp
-# AI-Powered-Interview-Assistant-Crisp
-# AI-Powered-Interview-Assistant-Crisp
+
