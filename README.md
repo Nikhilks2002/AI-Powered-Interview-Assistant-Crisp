@@ -72,7 +72,7 @@ AI Interview Assistant is a comprehensive React-based web application designed t
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ai-interview-assistant.git
+   git clone https://github.com/Nikhilks2002/ai-interview-assistant.git
    cd ai-interview-assistant
 
 Enhancements added:
